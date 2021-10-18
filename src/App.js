@@ -15,7 +15,9 @@ function App() {
        <tr>
           <td>Last Name</td>
           <td><input type="text"></input></td>          
-       </tr>       
+       </tr>  
+       <tr><td>
+          <input type="submit"></input></td></tr>     
     </table>
    
     </>
